@@ -9,4 +9,4 @@
 | Daniel Wekesa       | SCT212-0183/2022     |
 | Josiah Ndirangu     | SCT212-0111/2022     |
 | Geoffrey Gitau      | SCT212-0464/2022     |
-| Lameck Kipchumba    | SCT212-0152/2022     |
+| Lameck Tanui        | SCT212-0151/2022     |
